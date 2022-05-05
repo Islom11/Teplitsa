@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Теплица</string>
+    <string name="tempurature">Температура</string>
+    <string name="humdty">Влажность</string>
+    <string name="camera">Камера</string>
+    <string name="setting_theme_title">Тема</string>
+    <string name="setting_theme_first">День</string>
+    <string name="setting_theme_second">Ночь</string>
+    <string name="setting_language_title">Язык язык</string>
+    <string name="setting_language_first">Русский язык</string>
+    <string name="setting_language_second">Английский язык</string>
+    <string name="setting_language_third">Узбекский язык</string>
+    <string name="setting">Настройка</string>
+    <string name="update">Обновить</string>
+    <string name="control">Управления</string>
+    <string name="wait">Пожалуйста подождите ....</string>
+    <string name="succes">Успешно</string>
+    <string name="error">Ошибка</string>
+    <string name="burden_1">Нагрузка - 1</string>
+    <string name="burden_2">Нагрузка - 2</string>
+    <string name="burden_3">Нагрузка - 3</string>
+    <string name="save">Сохранить</string>
+    <string name="servo_up">Cерводвигатель наверху</string>
+    <string name="servo_down">Cерводвигатель внизу</string>
+    <string name="back">Пожалуйста, нажмите назад еще раз, чтобы выйти</string>
+    <string name="sigin">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="error_auth">Логин или пароль неправильно</string>
+    <string name="mess_exit">Вы действительно хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string-array name="temp_title">
+        <item>Температура воздуха 1</item>
+        <item>Температура воздуха 2</item>
+        <item>Температура почвы</item>
+        <item>Температура улица</item>
+    </string-array>
+
+    <string-array name="hum_title">
+        <item>Влажность воздуха</item>
+        <item>Влажность почвы</item>
+    </string-array>
+
+
+</resources>

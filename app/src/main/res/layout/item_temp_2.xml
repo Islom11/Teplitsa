@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="250dp"
+    android:layout_marginHorizontal="4dp"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/tempDate"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="20.11.2020"
+        android:textStyle="bold"
+        android:textSize="14sp"
+        android:rotation="-90"
+        android:visibility="gone"
+        />
+
+    <LinearLayout
+        android:id="@+id/tempLinear"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="visible"
+        >
+
+        <TextView
+            android:id="@+id/tempDeagre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="25 C"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/progressBar"
+                android:layout_width="75dp"
+                android:layout_height="200dp"
+                android:paddingEnd="3dp"
+                android:src="@drawable/temp"
+                tools:ignore="RtlSymmetry" />
+
+            <ProgressBar
+                android:id="@+id/tempProg"
+                style="@style/AppTheme.WhiteAccent"
+                android:layout_width="75dp"
+                android:layout_height="200dp"
+                android:max="80"
+                android:paddingStart="9dp"
+                android:progress="55"
+                android:rotation="-90"
+                android:scaleX="1.7"
+                android:scaleY="3.2"
+                tools:ignore="RtlSymmetry" />
+
+        </FrameLayout>
+
+
+        <TextView
+            android:id="@+id/tempTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="14:35:22"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

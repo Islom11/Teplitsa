@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Информация"
+        android:icon="@drawable/ic_info"
+        android:id="@+id/navInfo"
+        />
+
+    <item
+        android:title="Управления"
+        android:icon="@drawable/ic_control"
+        android:id="@+id/navControl"
+        />
+
+    <item
+        android:title="Настройка"
+        android:icon="@drawable/ic_setting"
+        android:id="@+id/navSetting"
+        />
+
+</menu>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Теплица</string>
+    <string name="tempurature">Temperature</string>
+    <string name="humdty">Humidity</string>
+    <string name="camera">Camera</string>
+    <string name="setting_theme_title">Theme</string>
+    <string name="setting_theme_first">Day</string>
+    <string name="setting_theme_second">Night</string>
+    <string name="setting_language_title">Language</string>
+    <string name="setting_language_first">Russian language</string>
+    <string name="setting_language_second">English language</string>
+    <string name="setting_language_third">Uzbek language</string>
+    <string name="setting">Settings</string>
+    <string name="update">Update</string>
+    <string name="control">Control</string>
+    <string name="wait">Please wait ....</string>
+    <string name="succes">Successfully</string>
+    <string name="error">Error</string>
+    <string name="burden_1">Load - 1</string>
+    <string name="burden_2">Load - 2</string>
+    <string name="burden_3">Load - 3</string>
+    <string name="save">Save</string>
+    <string name="servo_up">Servo upstairs</string>
+    <string name="servo_down">Servo downstairsу</string>
+    <string name="back">Please press back again to exit</string>
+    <string name="sigin">Sign in</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_auth">Login or password is incorrect</string>
+    <string name="mess_exit">Do you really want to leave?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string-array name="temp_title">
+        <item>Air temperature 1</item>
+        <item>Air temperature 2</item>
+        <item>Soil temperature</item>
+        <item>Street temperature</item>
+    </string-array>
+
+    <string-array name="hum_title">
+        <item>Air humidity</item>
+        <item>Soil humidity</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Теплица</string>
+    <string name="tempurature">Harorat</string>
+    <string name="humdty">Namlik</string>
+    <string name="camera">Kamera</string>
+    <string name="setting_theme_title">Tema</string>
+    <string name="setting_theme_first">Kun</string>
+    <string name="setting_theme_second">Tun</string>
+    <string name="setting_language_title">Til</string>
+    <string name="setting_language_first">Rus tili</string>
+    <string name="setting_language_second">Ingliz tili</string>
+    <string name="setting_language_third">O\'zbek tili</string>
+    <string name="setting">Sozlamalar</string>
+    <string name="update">Yangilash</string>
+    <string name="control">Boshqaruv</string>
+    <string name="wait">Iltimos kuting ....</string>
+    <string name="succes">Muvaffaqiyatli</string>
+    <string name="error">Xato</string>
+    <string name="burden_1">1 - yuklanish</string>
+    <string name="burden_2">2 - yuklanish</string>
+    <string name="burden_3">3 - yuklanish</string>
+    <string name="save">Saqlash</string>
+    <string name="servo_up">Yuqori servomotor</string>
+    <string name="servo_down">Paskti servomotor</string>
+    <string name="back">Chiqish uchun yana bir marta bosing</string>
+    <string name="sigin">Kirish</string>
+    <string name="password">Parol</string>
+    <string name="login">Login</string>
+    <string name="error_auth">Login yoki parol noto\'g\'ri</string>
+    <string name="mess_exit">Siz rostandan ham chishni hohlaysizmi?</string>
+    <string name="yes">Ha</string>
+    <string name="no">Yo\'q</string>
+    <string-array name="temp_title">
+        <item>Havo harorati 1</item>
+        <item>Havo harorati 2</item>
+        <item>Tuproq harorati</item>
+        <item>Ko\'cha harorati</item>
+    </string-array>
+
+    <string-array name="hum_title">
+        <item>Havo namligi</item>
+        <item>Tuproq namligi</item>
+    </string-array>
+
+</resources>
